@@ -14,6 +14,7 @@ namespace WebMartes
         //Cambios para GitHub
         public static void Main(string[] args)
         {
+            //super idea de And :)
             CreateHostBuilder(args).Build().Run();
         }
         
